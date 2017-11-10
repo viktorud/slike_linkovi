@@ -1,0 +1,9 @@
+<!DOCTYPE html!>
+<html>
+<head>
+<title>sthranica</title>
+<img src="images\ali.jpg" alt"odlicnafotka" 
+<h3>ali vs liston</h3>
+</body>
+</html>
+
